@@ -1,8 +1,0 @@
-First we train the model freezing the base layers. we do this for 30 epochs
-			we used
-			\begin{itemize}
-				\item[1]Gradient Descent  as Optimizer
-				\item[2]learning rate=0.001
-				\item[3]cost function is Mean Square Error
-			\end{itemize}
-			
